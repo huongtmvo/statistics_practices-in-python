@@ -1,2 +1,2 @@
 # Python_practice
- My Python practice
+This is repository for my Statistics practices in Python
